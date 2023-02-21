@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+body {
+  text-align: center;
+  background-color: beige;
+  /* background-image: "https://cdn.pixabay.com/photo/2018/09/01/12/17/sunset-3646667_1280.jpg"; */
+}
